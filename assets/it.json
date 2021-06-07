@@ -1,0 +1,491 @@
+[
+  {
+    "1": "All the following are component of Microsoft Windows 7 taskbar except",
+    "2": "When files and folders are deleted from the computer they go into the ",
+    "3": "Which of the following gives the user a log of all opened programs? ",
+    "4": "Dragging a folder from one drive to a window on the same drive is equivalent to a",
+    "5": "The ......... enables you to instantly view the desktop without minimizing or closing programs?",
+    "6": "This is made up of collection of electronic documents",
+    "7": "What is the name of the first page that a website displays?",
+    "8": "This is a program that finds websites, webpages, images, videos, news, maps and other information related to a specific topic",
+    "9": "Webpage has a unique address called",
+    "10": "This establishes a connection to and ISP through a telephone line by placing a phone call",
+    "11": "To align your text so that it is even on both the left and the right margins you must click the",
+    "12": "The format painter...............",
+    "13":"After selecting text, use the ........ and ....... command to move the text to different location",
+    "14": "Microsoft Powerpoint 2007 has the file extension..............",
+    "15": "When Microsoft Office Word creates a bibliograhpy page, it places all citations in what field?",
+    "16": "Visual effect applied to individual items on a slide is refered to as ",
+    "17": "A place on a slide where you eventually put thing is refered to as ...........",
+    "18": "Which of the following is not part of slide design?",
+    "19": "In a powerpoint presentation",
+    "20": "To insert a hyperling in a slide,.........",
+    "21": "Microsoft Office Word 2007 ribbon is made up of tabs which is also made up of groups",
+    "22": "We insert page(s) in Microsoft Powerpoint presentation",
+    "23": "Ribbon is found in both Microsot Office Word 2007 and Microfost Office Powerpoint 2007",
+    "24": "In Microsoft Office 2007, page layout is uded to viusally communicate information",
+    "25": "The address you type in a browser to access information or file is called",
+    "26": ".............simply means to get a file from a network or internet and have it stored on your computer",
+    "27": "Which of the following is NOT a valid email address?",
+    "28": "Which of the following is a web browser?",
+    "29": "In word 2016 the zoom is placed on",
+    "30": "Small squares, called ........... on the selection rectangle that surrounds a graphic can be used to change the dimensions of the graphic",
+    "31": "Insert Date, Format Page Number, and Insert AutoText are buttons on the .......... toolbar.",
+    "32": "What is placed to the left of horizontal scroll bar",
+    "33": "Which of the following is not one of three 'Mail Merge Helper steps? ",
+    "34": "If you need to double underline a word, how will you do that?",
+    "35": "How can you apply exactly the same formatting you did to another text?",
+    "36": "From where you can access Save command?",
+    "37": "Background color or effects applied on a document is not visible in",
+    "38": "A_________is a citation or note that appears at the bottom of a page.",
+    "39": "You have been asked to insert picture in your document. Which among the tabs would suit your choice",
+    "40": "Which of the following sequence of commands is applicable when opening the Microsoft word window?",
+    "41": "Which of the following keys delete text to the right of the cursor?",
+    "42": "Which command is not a Microsoft word command?",
+    "43": "What is the keyboard shortcut for centering text?",
+    "44": "Changing the apperance of document is referred to as",
+    "45": "Click the ............ and select New to create a new, document in Microsoft word 2016",
+    "46": "What does the red wavy line under a word in the documnet means?",
+    "47": "If you need to change the page color of a document, which tab in the ribbon will you choose?",
+    "48": "Which of the following is not in the font group?",
+    "49": "What is the use of the Customize Quick Access toolbar?",
+    "50": "The feature that MS Word 2016 uses to automatically move a text to the next line when it reaches the right edge of the working area is called............",
+    "51": "In MS Word, pressing the Enter key on the keyboard will\nI. Insert a newline\nII. Create a paragraph\nIII.Wrap text to the next document\nIV. Move the insertion point farther right",
+    "52": "The keystrokes Ctrl + I is used to",
+    "53": "What is the correct combination of key to decrease the font size of selected text?",
+    "54": "A set of style standards use for designing documents is know as?",
+    "55": "Microsoft office word can be use to replace Researcher?",
+    "56": "A brief, parenthetical reference placed at the end of a sentence or paragraph is known as?",
+    "57": "Why is it neccesary to use a citation when you quote another person work?",
+    "58": "Source saved in the 'Master List' can be shared in any Microsoft Office Word document",
+    "59": "A list of documents or sources consulted by an author during research for a paper is known as...",
+    "60": "After bibliography is prepared, you cannot edit it to add additional references."
+  },
+  {
+    "1":{
+      "a": "Gadgets",
+      "b": "start button",
+      "c": "Notification area",
+      "d": "Quick launch toolbar"
+    },
+    "2":{
+      "a": "Clipboard",
+      "b": "Delete bin",
+      "c": "Trash can",
+      "d": "Recycle bin"
+    },
+    "3":{
+      "a": "Start menu",
+      "b": "Start button",
+      "c": "Taskbar",
+      "d": "Title bar"
+    },
+    "4":{
+      "a": "Copy operation",
+      "b": "Cut operation",
+      "c": "Delete operation",
+      "d": "Move operation"
+    },
+    "5":{
+      "a": "Live thumbnails",
+      "b": "window flip",
+      "c": "Aero peek",
+      "d": "Aero snap"
+    },
+    "6":{
+      "a": "Web",
+      "b": "Email",
+      "c": "Internet",
+      "d": "Protocol"
+    },
+    "7":{
+      "a": "Start page",
+      "b": "Webpage",
+      "c": "Search page",
+      "d": "Homepage"
+    },
+    "8":{
+      "a": "Downloading",
+      "b": "Hyperlink",
+      "c": "Search engine",
+      "d": "Web browser"
+    },
+    "9":{
+      "a": "Downloading",
+      "b": "Web browser",
+      "c": "Uniform resource locator",
+      "d": "Uniform resource location"
+    },
+    "10":{
+      "a": "Broadband internet connection",
+      "b": "Dail-up internet connection",
+      "c": "Satellite internet connection",
+      "d": "Dual mode internet connection"
+    },
+    "11":{
+      "a": "Center button",
+      "b": "Justify button",
+      "c": "Align right button",
+      "d": "both options A and B"
+    },
+    "12":{
+      "a": "Repeats a set of formatting steps in one goal",
+      "b": "Only works in a normal view mode place",
+      "c": "Is a print preview tool",
+      "d": "Copies text and format to a new"
+    },
+    "13":{
+      "a": "Copy and paste",
+      "b": "Cut and paste",
+      "c": "Copy and move",
+      "d": "Copy and paste special"
+
+    },
+    "14":{
+      "a": ".png",
+      "b": ".pwt",
+      "c": ".ppt",
+      "d": ".pptx"
+    },
+    "15":{
+      "a":"Double-style Field",
+      "b": "Page Field",
+      "c": "Single Field",
+      "d": "Documents Field"
+    },
+    "16":{
+      "a": "Animation",
+      "b": "Transition",
+      "c": "Slideshow",
+      "d": "View"
+    },
+    "17":{
+      "a": "Layout",
+      "b": "Outline",
+      "c": "Placeholder",
+      "d": "Theme"
+    },
+    "18":{
+      "a": "Design Template",
+      "b": "Color Scheme",
+      "c": "Animation Scheme",
+      "d": "Slide Sayout"
+    },
+    "19":{
+      "a": "sound clips can be inserted but not movies clips",
+      "b": "movie clips can be inserted but not sound clips",
+      "c": "Both cannot be inserted",
+      "d": "Both can be inserted"
+
+    },
+    "20":{
+      "a": "Choose insert >> hyperlink",
+      "b": "Press ctrl + k",
+      "c": "hyperlinks can't be inserted in slides",
+      "d": "Both A and B"
+    },
+    "21":{
+      "a": "True",
+      "b": "False",
+      "c": "None of these",
+      "d": "Not sure"
+    },
+    "22":{
+      "a": "True",
+      "b": "False",
+      "c": "None of these",
+      "d": "Not sure"
+    },
+    "23":{
+      "a": "True",
+      "b": "False",
+      "c": "None of these",
+      "d": "Not sure"
+    },
+    "24":{
+      "a": "True",
+      "b": "False",
+      "c": "Not sure",
+      "d": "None of these"
+    },
+    "25":{
+      "a": "Uniformed resource locator",
+      "b": "Universal resourcing location",
+      "c": "Uniform resource locator",
+      "d": "Uniform resource location"
+    },
+    "26":{
+      "a": "Upload",
+      "b": "Copying",
+      "c": "Moving",
+      "d": "Download"
+    },
+    "27":{
+      "a":"samuel.bekoe@gmail.com",
+      "b":"gamil@gamil.com",
+      "c": "bekoe Samuel19@gmail.com",
+      "d": "sammy1@gmail.com"
+    },
+    "28":{
+      "a": "Google",
+      "b": "Yahoo",
+      "c": "Ask",
+      "d": "Microsoft Edge"
+    },
+    "29":{
+      "a": "View tab",
+      "b": "Home tab",
+      "c": "A & C both",
+      "d": "Status bar"
+    },
+    "30":{
+      "a": "Scroll Boxes",
+      "b": "Sizing Handles",
+      "c": "Status Indicators",
+      "d": "Move Handles"
+    },
+    "31":{
+      "a": "Formatting",
+      "b": "Header and Footer",
+      "c": "Standard",
+      "d": "Edit"
+    },
+    "32":{
+      "a": "Tab stop buttons",
+      "b": "View buttons",
+      "c": "Split buttons",
+      "d": "Indicators"
+    },
+    "33":{
+      "a": "Merge the two files",
+      "b": "Create the main document",
+      "c": "Set the mailing list parameters",
+      "d": "Create the data source"
+    },
+    "34":{
+      "a": "Go to Format menu and then Font option. Open Underline style and choose Double Underline",
+      "b": "From Format menu choose Font option and then from Font tab open underline style and select Double Underline",
+      "c": "Select the text then choose Format >> Font and on Font tab, open underline style and choose double underline",
+      "d": "Click double underline tool on formatting toolbar"
+    },
+    "35":{
+      "a": "Copy the text and paste in new location. Then type the new text again.",
+      "b": "Copy the text and click on paste special tool on new place",
+      "c": "Select the text then click on format painter and select the new text",
+      "d": "All of above"
+    },
+    "36":{
+      "a": "Home tab",
+      "b": "Insert tab",
+      "c": "Review tab",
+      "d": "None of above"
+    },
+    "37":{
+      "a": "Web Layout View",
+      "b": "Print Layout View",
+      "c": "Reading View",
+      "d": "Print Preview"
+    },
+    "38":{
+      "a": "Endnote",
+      "b": "Fullstop",
+      "c": "Salution",
+      "d": "Footnote"
+    },
+    "39":{
+      "a": "Home",
+      "b": "Page layout",
+      "c": "Design",
+      "d": "Insert"
+    },
+    "40":{
+      "a": "Start Button >> All Apps >> Microsoft Word",
+      "b": "Start button >> Accessories >> Wicrosoft Word",
+      "c": "Start Menu >> Accessories >> Microsoft Word",
+      "d": "Start Menu >> All apps >> Microsoft Word"
+    },
+    "41":{
+      "a": "Backspace",
+      "b": "Home",
+      "c": "Delete",
+      "d": "Blackspace"
+    },
+    "42":{
+      "a": "Esc",
+      "b": "Edit",
+      "c": "Help",
+      "d": "File"
+    },
+    "43":{
+      "a": "Ctrl + c",
+      "b": "Ctrl + E",
+      "c": "Shift + E",
+      "d": "Shift + c"
+    },
+    "44":{
+      "a": "Entering",
+      "b": "Formating",
+      "c": "Formation",
+      "d": "Editing"
+    },
+    "45":{
+      "a": "Office Button",
+      "b": "File",
+      "c": "Ribbon",
+      "d": "Home Tab"
+    },
+    "46":{
+      "a": "The word might be misspelled or is not in word dictionary",
+      "b": "The word has been copied to the clipboard",
+      "c": "The word might contain a grammatical error",
+      "d": "None of the above"
+    },
+    "47":{
+      "a": "Home Tab",
+      "b": "Insert Tab",
+      "c": "layout Tab",
+      "d": "Design Tab"
+
+    },
+    "48":{
+      "a": "Bold",
+      "b": "Superscript",
+      "c": "Line spacing",
+      "d": "Change case"
+    },
+    "49":{
+      "a": "To quickly format the document in a chronological order",
+      "b": "To quickly print the customized page",
+      "c": "To quickly arrange tools that are used more frequently",
+      "d": "To quickly navigate the document that has been customized"
+    },
+    "50":{
+      "a": "Word Loop",
+      "b": "Wrap Word",
+      "c": "Wrap Text",
+      "d": "Word Wrap"
+    },
+    "51":{
+      "a": "I and II",
+      "b": "II and III",
+      "c": "III and IV",
+      "d": "I and Iv"
+    },
+    "52":{
+      "a": "Increase font size",
+      "b": "Inserts a line break",
+      "c": "Applies italic format to selected text",
+      "d": "Indicate the text should be bold"
+    },
+    "53":{
+      "a":"Ctrl + Down Arrow",
+      "b": "Ctrl + <",
+      "c": "Ctrl + Shift + <",
+      "d": "Ctrl + Shift + Down Arrow"
+    },
+    "54":{
+      "a":"Stylesheet",
+      "b": "Font Style",
+      "c": "Style Manual",
+      "d": "Font Size"
+    },
+    "55":{
+      "a":"True",
+      "b": "False",
+      "c": "Not sure",
+      "d": "None of these"
+    },
+    "56":{
+      "a":"Reference",
+      "b": "Citation",
+      "c": "Salution",
+      "d": "None of these"
+    },
+    "57":{
+      "a": "To help the reader to understand the passage",
+      "b": "It saves time",
+      "c": "It directs a reader to a source of information you used",
+      "d": "To style your text"
+    },
+    "58":{
+      "a":"True",
+      "b": "False",
+      "c": "Not sure",
+      "d": "None of these"
+    },
+    "59":{
+      "a":"Source code",
+      "b": "Current List",
+      "c": "Hiptography",
+      "d": "Bibliography"
+    },
+    "60":{
+      "a":"True",
+      "b": "False",
+      "c": "Not sure",
+      "d": "None of these"
+    }
+  },
+  {
+    "1": "Gadgets",
+    "2": "Recycle bin",
+    "3": "Start button",
+    "4": "Move operation",
+    "5": "Aero snap",
+    "6": "Email",
+    "7": "Homepage",
+    "8": "Web browser",
+    "9": "Uniform resource locator",
+    "10":"Dail-up internet connection",
+    "11": "Justify button",
+    "12": "Copies text and format to a new",
+    "13": "Cut and paste",
+    "14": ".ppt",
+    "15": "Single Field",
+    "16": "Animation",
+    "17": "Layout",
+    "18": "Animation Scheme",
+    "19": "Both can be inserted",
+    "20": "Both A and B",
+    "21": "True",
+    "22": "False",
+    "23": "True",
+    "24": "True",
+    "25": "Uniform resource locator",
+    "26": "Download",
+    "27": "bekoe Samuel19@gmail.com",
+    "28": "Microsoft Edge",
+    "29": "View tab",
+    "30": "Status Indicators",
+    "31": "Header and Footer",
+    "32": "Indicators",
+    "33": "Set the mailing list parameters",
+    "34":  "Select the text then choose Format >> Font and on Font tab, open underline style and choose double underline",
+    "35": "Select the text then click on format painter and select the new text",
+    "36": "None of above",
+    "37": "Print Layout View",
+    "38": "Footnote",
+    "39": "Insert",
+    "40": "Start Button >> All Apps >> Microsoft Word",
+    "41": "Delete",
+    "42": "Edit",
+    "43": "Ctrl + E",
+    "44": "Editing",
+    "45": "File",
+    "46": "The word might be misspelled or is not in word dictionary",
+    "47": "Design Tab",
+    "48": "Line spacing",
+    "49": "To quickly arrange tools that are used more frequently",
+    "50": "Wrap Text",
+    "51": "I and II",
+    "52": "Applies italic format to selected text",
+    "53": "Ctrl + Shift + <",
+    "54": "Style Manual",
+    "55": "False",
+    "56": "Citation",
+    "57": "It directs a reader to a source of information you used",
+    "58": "True",
+    "59": "Bibliography",
+    "60": "False"
+  }
+]

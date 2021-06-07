@@ -1,0 +1,472 @@
+[
+  {
+    "1":"Declaration a pointer more than once may cause ____",
+    "2": "Which operation is used as Logical 'AND'",
+    "3": "An expression A.B in C++ means ____",
+    "4": "A C++ code line ends with____",
+    "5": "_____function is used to allocate space for array in memory.",
+    "6": "A pointer pointing to a varible that is not initialized is called____",
+    "7": "Default constructor has_____arguments",
+    "8": "A class who's objects cannot be created is known as____",
+    "9": "Reusability of code in C++ is achieved through____",
+    "10": "In C++ program, inline functions are expanded during_____",
+    "11": "In C++, members of a class are_____by default",
+    "12": "To perform input/output operation in C++,we must include which header file?",
+    "13": "An exception in C++ can be generated using which keywords?",
+    "14": "C++ was originally developed by",
+    "15": "Which of the following is not a storage class supported by C++ ?",
+    "16": "cout stands for?",
+    "17": "The field in a class, of a C++ program are by default____",
+    "18": "Which of the following decides if a function that is declared inline is indeed going to be treated inline in the executable code ?",
+    "19": "At which point of time a variable comes into existence in memory is determined by its.",
+    "20": "The order in which operands are evaluated in an expression is predictable if the operator is...",
+    "21": "Where a condition is checked to see whether to do one or more iterarion is______",
+    "22": "Which one is the valid real constant?",
+    "23": "______variables are sensitive to the data type they point to",
+    "24": "When a=6, c= ++a, what will be the value of c?",
+    "25": "When a=6 and c=a++, what is the value of c?",
+    "26": "The statement int A; B; is invalid because_______",
+    "27": "The special characters like tab, backspace, line feed, null, black slash are called______character constant",
+    "28": "The body of function contains______",
+    "29": "What does oop stand for?",
+    "30": "A________is a subprogram that acts on data and return a value.",
+    "31": "The words that are reserved to do specific tasks and must not be used as normal identifier names are called...",
+    "32": "Which exception is thrown if the typecasting is not done properly",
+    "33": "What is the use of type() function in any container?",
+    "34": "In how many ways we can handle errors in any class?",
+    "35": "What is the use of sum() function in Valarray?",
+    "36": "What is bitset in C++?",
+    "37": "A literal variable can change it value.",
+    "38": "What will be the output of this code?\n int price = 10;\n cout << 'The price of the book is' << price << 'Ghana cedis' <<endl;",
+    "39": "Given this code:\n,int z;\nint main()\n{int y = 3, x = 2;z = y + x;return 0;}\nwhat is the scope of the variable z?",
+    "40": "What is wrong with this code?\nfloat CalcCost ( int unit ){\nfloat cost;\ncost = 5.59 * unit;\nreturn cost;\n}",
+    "41": "If a language is portable, what does that imply?",
+    "42": "If you assign int cost = 395.75; what actually will be stored in memory?",
+    "43": "What is the standard library?",
+    "44": "What are overloaded functions?",
+    "45": "What statement is equivalent to the following?\nnumber += 1",
+    "46": "What statement is equivalent to the following?\nnumber X = X * 2",
+    "47": "if Z = 8, what will be the results of the statement.\nif (Z == 0 || 1 ) cout << \"it's OK to print \" << Z;\nelse cout << \"Can't do this\"",
+    "48": "In this while loop statement, while (counter < 10 ) the variable counter is an int. Which statement below is an equivalent way to write this while statement?",
+    "49": "which is the correct syntax to obtain a value from the user.",
+    "50": "Which is NOT a C++ datatype?",
+    "51": "To decrement a number means to increase a value.",
+    "52": "The following statement sets the value of total to -3.",
+    "53": "To check if a variable has a particular value, use the = relational operator, as in the statement.\nif ( s  = 3 )\n cout << \" S has the value 3\";",
+    "54": "What will the following loop display?\n int x = 0;\nWhile ( x < 5 )\n{\ncout << x << endl;\nx++;\n}",
+    "55": "What is wrong with this code? \"Hello\"?\nint ShowMeTheMoney()\n{\nint cents, dollars;\ncout << \"\n Enter dollars and cents\";\ncin >> dollars, cents;\nreturn (dollars, cents)\n}",
+    "56": "How many times will the following loop display \"Hello\"?\nfor( int i = 1, i < 20; i++)\ncout << \"Hello!\" < endl;",
+    "57": "What will the following code display?\ncout <<\"Monday\";\ncout << \"Tuesday\";\ncout << \"Wednesday\";",
+    "58": "In C++ program, two slash marks (//) indicate:"
+  },
+  {
+    "1": {
+      "a": "Error",
+      "b": "Abort",
+      "c": "Trap",
+      "d": "Null"
+    },
+    "2":{
+      "a":"Operetor-&",
+      "b":"Operator-||",
+      "c":"Operator-&&",
+      "d":"Operator +"
+    },
+    "3":{
+      "a": "A is member of object B",
+      "b":"B is member of object A",
+      "c":"Product of A and B",
+      "d":"None of these"
+    },
+    "4": {
+      "a": "A semicolon(;)",
+      "b":"A fullstop(.)",
+      "c":"A comma(,)",
+      "d":"Slash(/)"
+    },
+    "5":{
+      "a": "malloc()",
+      "b":"realloc()",
+      "c":"alloc()",
+      "d":"calloc()"
+    },
+    "6":{
+      "a": "void pointer",
+      "b":"null pointer",
+      "c":"empty pointer",
+      "d":"wild pointer"
+    },
+    "7": {
+      "a": "No argument",
+      "b":"One argument",
+      "c":"Two argument",
+      "d":"None of these"
+    },
+    "8":{
+      "a": "Absurd class",
+      "b":"Dead class",
+      "c":"Super class",
+      "d":"Abstract class"
+    },
+    "9":{
+      "a": "Polymorphism",
+      "b":"Inheritance",
+      "c":"Encapsulation",
+      "d":"Both A and B"
+    },
+    "10": {
+      "a":"Run time",
+      "b":"Compile time",
+      "c":"Debug time",
+      "d":"Coding time"
+    },
+    "11":{
+      "a": "Public",
+      "b":"Private",
+      "c":"Protected",
+      "d":"Static"
+    },
+    "12":{
+      "a": "<iostream>",
+      "b":"<ifostream>",
+      "c":"<ostream>",
+      "d":"<stream>"
+    },
+    "13":{
+      "a": "thrown",
+      "b":"threw",
+      "c":"throw",
+      "d":"throws"
+    },
+    "14":{
+      "a": "Clocksin and Mellish",
+      "b":"Elon Musk",
+      "c":"Bill Gate",
+      "d":"Bjarne Stroustrup"
+    },
+    "15":{
+      "a": "Register",
+      "b":"Auto",
+      "c":"Mutable",
+      "d":"Dynamic"
+    },
+    "16":{
+      "a": "class output",
+      "b":"character output",
+      "c":"common output",
+      "d":"call output"
+    },
+    "17":{
+      "a":"Protected",
+      "b": "Public",
+      "c":"Private",
+      "d":"None of these"
+    },
+    "18":{
+      "a":"Compiler",
+      "b": "Linker",
+      "c":"Loader",
+      "d":"Preprocessor"
+    },
+    "19":{
+      "a":"Scope",
+      "b": "Storage class",
+      "c":"Data type",
+      "d":"All of the above"
+    },
+    "20":{
+      "a":"*",
+      "b": "+",
+      "c":"-",
+      "d":"&&"
+    },
+    "21":{
+      "a":"Definite iteration",
+      "b": "Sequencing",
+      "c":"Indefinite iteration",
+      "d":"None of these"
+    },
+    "22":{
+      "a":"85.46",
+      "b": "85",
+      "c":"0.85",
+      "d":"Both A and C"
+    },
+    "23":{
+      "a":"Char",
+      "b": "Pointer",
+      "c":"Integer",
+      "d":"Float"
+    },
+    "24":{
+      "a":"6",
+      "b":"7",
+      "c":"8",
+      "d":"9"
+    },
+    "25":{
+      "a":"6",
+      "b":"7",
+      "c":"8",
+      "d":"9"
+    },
+    "26":{
+      "a":"Variables should be seperated by comma",
+      "b": "Only one variable should be given",
+      "c":"Capital A is not allowed",
+      "d":"All of these"
+    },
+    "27":{
+      "a":"Flaoting",
+      "b":"String",
+      "c":"Graphic",
+      "d":"Non-graphic"
+    },
+    "28":{
+      "a":"Return statement",
+      "b":"A variable declaration part",
+      "c":"Proccessing part",
+      "d":"All the above"
+    },
+    "29":{
+      "a":"Object operation programme",
+      "b":"Object optional programme",
+      "c":"Object oriented programme",
+      "d":"Optional oriented programme"
+    },
+    "30":{
+      "a":"Variable",
+      "b":"Iterable",
+      "c":"Function",
+      "d":"Data type"
+    },
+    "31":{
+      "a":"Loop",
+      "b":"Data",
+      "c":"Keyword",
+      "d":"Programs"
+    },
+    "32":{
+      "a":"bad_type_cast",
+      "b":"bad_any_cast",
+      "c":"type_mismatched",
+      "d":"bad_cast_mismatched"
+    },
+    "33":{
+      "a":"Used to destroys the contained object in any variable",
+      "b":"Used to change the object any container is holding",
+      "c":"Used to return the type information about any container",
+      "d":"Used to check whether a container is empty or not"
+    },
+    "34":{
+      "a":"1",
+      "b":"2",
+      "c":"3",
+      "d":"4"
+    },
+    "35":{
+      "a":"Applies the manipulation provided to all the elements of the array",
+      "b":"Returns the summation of all elements of Valarray",
+      "c":"Returns new array after shifting elements by the given number",
+      "d":"Returns new array after circular shifting elements by the given number"
+    },
+    "36":{
+      "a":"An array of bools consuming one bit per element",
+      "b":"Vector of bools",
+      "c":"C-like arrays of bool elements",
+      "d":"Template class"
+    },
+    "37":{
+      "a":"True",
+      "b":"False",
+      "c":"Not sure",
+      "d": "Neither of them"
+    },
+    "38":{
+      "a":"The price of the book is 10 Ghana cedis",
+      "b":"The price of the book is price Ghana cedis",
+      "c":"\"The price of the book is\" << price << \"Ghana cedis\"",
+      "d":"None of these"
+    },
+    "39":{
+      "a":"static",
+      "b":"local",
+      "c":"global",
+      "d":"None of these"
+    },
+    "40":{
+      "a":"The function name is invalid.",
+      "b":"The return type should be int.",
+      "c":"You can't have math statements inside a function.",
+      "d":"Nothing is wrong with it."
+    },
+    "41":{
+      "a":"There are no portable languages.",
+      "b":"It can be compiled and run anything but Mac OS.",
+      "c":"It can be use on laptop.",
+      "d":"It can be compiled and run on all types of machine."
+    },
+    "42":{
+      "a":"395",
+      "b":"396",
+      "c":"395.75000",
+      "d":"395.75"
+    },
+    "43":{
+      "a":"Libraries included as part of the c++ language.",
+      "b":"A library created by the programmer.",
+      "c":"Libraries that include blueprints of classes.",
+      "d":"There no standard libraries."
+    },
+    "44":{
+      "a":"Functions that have the same name and the same input parameter lists.",
+      "b":"Functions that have a different name but the same input parameter lists.",
+      "c":"Functions that have the same name and different input parameter lists.",
+      "d":"Functions that do the same thing."
+    },
+    "45":{
+      "a":"number + 1",
+      "b":"None of these",
+      "c":"number = 1",
+      "d":"number = number + 1"
+    },
+    "46":{
+      "a":"X *= 2",
+      "b":"None of these",
+      "c":"X * 2",
+      "d":"X = X * X"
+    },
+    "47":{
+      "a":"The compiler will display an error.",
+      "b":"It's OK to print 1",
+      "c":"It's OK to print 8",
+      "d":"Can't do this!"
+    },
+    "48":{
+      "a":"while( counter <= 9)",
+      "b":"while( 9 > counter )",
+      "c":"while( 10 > counter)",
+      "d":"Both A and B are correct"
+    },
+    "49":{
+      "a":"cout >> value;",
+      "b":"cout << value;",
+      "c":"cin >> value;",
+      "d":"cin << value;"
+    },
+    "50":{
+      "a":"float",
+      "b":"int",
+      "c":"const",
+      "d":"double"
+    },
+    "51":{
+      "a":"True",
+      "b":"False",
+      "c" : "Not sure",
+      "d" : "Both True and False"
+    },
+    "52":{
+      "a":"True",
+      "b":"False",
+      "c" : "Not sure",
+      "d" : "Both True and False"
+    },
+    "53":{
+      "a":"True",
+      "b":"False",
+      "c" : "Not sure",
+      "d" : "Both True and False"
+    },
+    "54":{
+      "a":"0, for infinity",
+      "b":"01234",
+      "c":"0\n1\n2\n3\n4\n5",
+      "d":"0\n1\n2\n3\n4"
+    },
+    "55":{
+      "a":"There is nothing wrong with this code.",
+      "b":"Both A & B;",
+      "c":"You can't have a comma in the return statement.",
+      "d":"You can't have a comma in the cin statement."
+    },
+    "56":{
+      "a":"21",
+      "b":"20",
+      "c":"An infinite",
+      "d":"19"
+    },
+    "57":{
+      "a":"MondayTuesdayWednesday",
+      "b":"Monday Tuesday Wednesday",
+      "c":"\"Monday\"\n\"Tuesday\"\n\"nWednesday\"",
+      "d":"Monday\nTuesday\nWednesday"
+    },
+    "58":{
+      "a": "The beginning of a block of code",
+      "b": "The end of the program",
+      "c": "The end of a statement",
+      "d": "The beginning of a comment"
+    }
+  },
+  {
+    "1":"Trap",
+    "2":"Operator-&&",
+    "3": "B is member of object A",
+    "4": "A semicolon(;)",
+    "5": "calloc()",
+    "6":"null pointer",
+    "7": "No argument",
+    "8":"Super class",
+    "9":"Inheritance",
+    "10":"Run time",
+    "11":"Private",
+    "12":"<iostream>",
+    "13":"throw",
+    "14":"Bjarne Stroustrup",
+    "15":"Dynamic",
+    "16":"common output",
+    "17":"Private",
+    "18":"Compiler",
+    "19":"Storage class",
+    "20":"&&",
+    "21":"Sequencing",
+    "22":"Both A and C",
+    "23":"Pointer",
+    "24":"7",
+    "25":"6",
+    "26":"Variables should be seperated by comma",
+    "27":"Non-graphic",
+    "28":"All the above",
+    "29":"Object oriented programme",
+    "30":"Function",
+    "31":"Keyword",
+    "32":"bad_any_cast",
+    "33":"Used to return the type information about any container",
+    "34":"2",
+    "35":"Returns the summation of all elements of Valarray",
+    "36":"An array of bools consuming one bit per element",
+    "37":"False",
+    "38":"The price of the book is 10 Ghana cedis",
+    "39":"local",
+    "40":"Nothing is wrong with it.",
+    "41":"It can be compiled and run on all types of machine.",
+    "42":"395",
+    "43":"Libraries included as part of the c++ language.",
+    "44":"Functions that have the same name and different input parameter lists.",
+    "45":"number = number + 1",
+    "46":"X *= 2",
+    "47": "can't do this!",
+    "48":"while( counter <= 9)",
+    "49":"cin >> value;",
+    "50":"const",
+    "51":"False",
+    "52":"False",
+    "53":"False",
+    "54":"0\n1\n2\n3\n4",
+    "55": "There is nothing wrong with this code.",
+    "56": "19",
+    "57": "MondayTuesdayWednesday",
+    "58": "The beginning of a comment"
+  }
+]
